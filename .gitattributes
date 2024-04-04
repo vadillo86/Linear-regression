@@ -1,4 +1,2 @@
-*.tex linguist-vendored
-*.cls linguist-vendored
 *.Rmd  linguist-detectable
 *.[Rr]md  linguist-detectable
