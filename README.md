@@ -15,3 +15,6 @@ regresión lineal.
 4.  Interpretación de resultados.
 5.  Analizar multicolinealidad y Calcular VIF.
 6.  Aplicar regularización Ridge y Lasso.
+
+   
+[Enlace a Linear regression](./Linear-regression.md)
