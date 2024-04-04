@@ -670,8 +670,8 @@ print(modelo_ridge)
     ## Measure: Mean-Squared Error 
     ## 
     ##     Lambda Index Measure     SE Nonzero
-    ## min 0.1192   100  0.9744 0.2998      10
-    ## 1se 1.7701    71  1.2537 0.4131      10
+    ## min 0.1192   100  0.9322 0.2225      10
+    ## 1se 1.3390    74  1.1383 0.3537      10
 
 Estos resultados muestran que el modelo ridge ajustado con validación
 cruzada tiene un valor óptimo de lambda de 0.1192, con un MSE de 0.9351
@@ -695,8 +695,8 @@ print(modelo_lasso)
     ## Measure: Mean-Squared Error 
     ## 
     ##      Lambda Index Measure     SE Nonzero
-    ## min 0.00593    58   1.109 0.4134      10
-    ## 1se 0.26904    17   1.490 0.4107       4
+    ## min 0.00409    62  0.8339 0.2907      10
+    ## 1se 0.05041    35  1.1159 0.3869       8
 
 Estos resultados muestran que el modelo Lasso ajustado con validación
 cruzada tiene un valor óptimo de lambda de 0.00339 en el caso mínimo y
