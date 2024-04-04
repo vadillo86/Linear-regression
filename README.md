@@ -3,6 +3,8 @@ EDA y Regresión lineal
 Eduardo Vadillo
 2024-04-01
 
+![Static Badge](https://img.shields.io/badge/R-4.3.1-blue?color=blue)
+
 En este ejercicio se realizará un análisis exploratorio previo a una
 regresión lineal.
 
